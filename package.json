@@ -1,0 +1,50 @@
+{
+  "name": "3jsproject",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@motionone/utils": "^10.18.0",
+    "@react-spring/web": "^9.7.5",
+    "@react-three/drei": "^9.120.8",
+    "@react-three/fiber": "^8.17.14",
+    "@react-three/postprocessing": "^2.19.1",
+    "@studio-freight/lenis": "^1.0.42",
+    "@types/three": "^0.172.0",
+    "imagesloaded": "^5.0.0",
+    "lenis": "^1.1.21",
+    "leva": "^0.9.35",
+    "locomotive-scroll": "^5.0.0-beta.21",
+    "motion": "^12.0.11",
+    "postprocessing": "^6.36.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
+    "scrollmagic": "^2.0.8",
+    "three": "^0.172.0",
+    "three-stdlib": "^2.35.14",
+    "three.meshline": "^1.4.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "globals": "^15.14.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.5"
+  }
+}
