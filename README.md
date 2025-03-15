@@ -2,10 +2,6 @@ Repeat Studio Freight Clone
 
 A meticulously crafted recreation of the Repeat website by Studio Freight. This project captures the essence of the original site's minimalistic wireframe aesthetic, smooth animations, and fluid interactions.
 
-🚀 Live Demo
-
-[Add your live demo link here]
-
 📌 Features
 
 Selective Wireframe Effect – A sleek, minimal look with a focus on structured design.
