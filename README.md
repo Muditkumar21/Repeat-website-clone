@@ -10,8 +10,6 @@ Smooth Animations & Interactions – Implemented using GSAP and Locomotive Scrol
 
 Optimized Performance – Lightweight, efficient, and fast-loading.
 
-Responsive Design – Ensuring a seamless experience across all devices.
-
 🛠️ Tech Stack
 
 HTML, CSS, JavaScript, React – Core web technologies.
